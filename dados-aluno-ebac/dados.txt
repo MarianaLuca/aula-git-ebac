@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Mariana 
+-Profissão: Analista de QA
+-Cidade: Japurá/PR
+-O que faz nas horas vaga: Produzo músicas próprias
+-Feedback sobre o curso Qualidade de Software: 10/10
+-Feedback sobre a plataforma de estudo da EBAC: 10/10
+
+Obrigado!!!
+
+
